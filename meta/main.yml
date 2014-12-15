@@ -7,6 +7,6 @@ galaxy_info:
     - name: RedHat
       versions: 6
   categories:
-    - packaging
+    - system
 dependencies: []
 
