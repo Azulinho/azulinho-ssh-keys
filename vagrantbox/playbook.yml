@@ -5,7 +5,6 @@
   accelerate: false
   sudo: true
 
-
   roles:
     - Azulinho.azulinho-google-dns
     - this-github-role
