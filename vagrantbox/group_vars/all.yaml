@@ -3,7 +3,7 @@
 # Ideally you'd want to use Vault or another sort of encryption method
 # to store this.
 #
-ssh_keys:
+azulinho_ssh_keys:
   - { hostgroup: 'vagrant_servers',
       owner: 'vagrant',
       path: '/home/vagrant/.ssh/id_rsa',
